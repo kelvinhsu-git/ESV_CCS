@@ -1,0 +1,6 @@
+/build
+/.settings
+/ESV_CCS Debug.launch
+/.vscode
+/ideScripts
+/Makefile.backup
